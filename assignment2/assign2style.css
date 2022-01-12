@@ -1,0 +1,169 @@
+div.fgroup {
+    margin-left:10px;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+body {
+    border-style:solid;
+}
+
+h3 {
+    color: green;
+    text-align: center;
+    margin:0px;
+    text-decoration:underline;
+}
+
+button.one {
+    text-align:left;
+    padding-right: 35px;
+    width: 180px;
+}
+button.two {
+    background-color: whitesmoke;
+    width:60px;
+}
+
+table {
+    background-color: blue;
+    border-style:ridge;
+}
+table th{
+    width: 170px;
+    color: white;
+}
+table td {
+    background-color: darkgreen;
+    text-align: center; 
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-width: 2px;
+}
+
+p.three {
+    color:hotpink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.four {
+    color:pink;
+    font-family: 'Courier New', Courier, monospace;
+}
+p.five {
+color:lightpink;
+font-family: cursive;
+}
+
+div.sgroup {
+    border-style:solid;
+    border-color: turquoise;
+    width: 99%;
+}
+
+div.tgroup {
+    border-style:ridge;
+    margin-top:20px;
+    height:200px;
+    width:50%;
+}
+
+div.frame {
+    margin-top:25px;
+}
+
+div.setofPictures{
+    margin-top:50px;
+}
+
+div.Pic1 {
+    filter:invert(100);
+    height:500px;
+    border-style:solid;
+    border-color:yellow;
+}
+
+div.Pic2 {
+    filter:invert(50);
+    height:500px;
+    border-style:solid;
+    border-color:yellow;
+
+}
+
+div.Pic3 {
+    height:500px;
+    border-style:solid;
+    border-color:blue;
+}
+
+div.firstText {
+    position:relative;
+    text-align:center;
+    color:white;
+    width:20%;
+    left:190px;
+    
+}
+
+div.secondText {
+    position:relative;
+    text-align:center;
+    color:white;
+    width:20%;
+    left:190px;
+    
+}
+
+div.thirdText {
+    position:relative;
+    text-align:center;
+    color:white;
+    width:20%;
+    left:190px;
+    
+}
+
+div.first2Text {
+    position:relative;
+    text-align:center;
+    color:white;
+    width:20%;
+    left:190px;
+}
+
+div.second2Text {
+    position:relative;
+    text-align:center;
+    color:white;
+    width:20%;
+    left:190px;
+}
+
+div.third2Text {
+    position:relative;
+    text-align:center;
+    color:white;
+    width:20%;
+    left:190px;
+}
+
+div.first3Text {
+    width:20%;
+    position:relative;
+    left:220px;
+}
+
+div.second3Text {
+    width:20%;
+    position:relative;
+    left:220px;
+}
+
+div.third3Text {
+    width:20%;
+    position:relative;
+    left:220px;
+}
